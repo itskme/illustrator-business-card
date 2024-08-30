@@ -3,3 +3,5 @@
 
 
 Simple business card design made in adobe illustrator for my branding. 
+
+You can use this too if you want, open the .ai file and change whatever you like, from colors to names. This is publicdomain image.
